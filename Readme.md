@@ -1,5 +1,4 @@
 
-# Dispersion-Compensation
 # Dispersion Compensation
 
 ## Objective
@@ -74,11 +73,26 @@ The main physical components of this layout are:
 - Record similar measurements for comparison.  
 
 ---
-# Result
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/068a7895-8b9a-4267-9c82-b5539868d34f" />
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/cbb75a8e-473f-4835-b615-e4fe8955d0d4" />
 
+## Block Diagram
+
+<img width="791" height="415" alt="image" src="https://github.com/user-attachments/assets/846dc555-c816-4cfa-bf54-62f2b09579b1" />
 
 ---
+
+## Graph
+
+<img width="1440" height="496" alt="image" src="https://github.com/user-attachments/assets/9c9b8594-5f35-4d6e-8c6c-1a60521d1c1a" />
+
+---
+
+## Result
+
+<img width="760" height="1280" alt="image" src="https://github.com/user-attachments/assets/619d5704-532e-4623-b830-548c9c9cb96f" />
+
+<img width="839" height="1280" alt="image" src="https://github.com/user-attachments/assets/089a1fa0-68e8-4550-8e4b-d6cf26d3c5bb" />
+
+---
+
 ## Conclusions
 Discuss the effectiveness of dispersion-compensating fiber and the ability of the calculations to engineer a viable system.
